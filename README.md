@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🔧 Technologies & Tools
 - **Programming Languages:** JavaScript, Java, C++, Python 
 - **Web Development:** HTML, CSS, React, Node.js, Angular
+- **Automation:** Make.com, Zapier, Google apps script
 - **Databases:** MySQL, MongoDB
 - **DevOps:** Docker,  CI/CD
 - **Cloud Services:** Google Cloud
@@ -32,4 +33,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - I'm a big of reading and history.
 - I love all kinds of sports, especially MMA.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamadarwashi&show_icons=true&theme=radical)
