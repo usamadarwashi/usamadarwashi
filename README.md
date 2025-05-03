@@ -5,19 +5,12 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, Automation and continuous learning. Here's a bit about me:
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** JavaScript, Java, C++, Python 
-- **Web Development:** HTML, CSS, React, Node.js, Angular
-- **Automation:** Make.com, Zapier, Google apps script
+- **Programming Languages:** JavaScript, Java, Python 
+- **Web Development:** HTML, CSS, React, Angular
+- **Automation:** Make.com, Google apps script
 - **Databases:** MySQL, MongoDB
 - **DevOps:** Docker,  CI/CD
 - **Cloud Services:** Google Cloud
-- **Other Tools:** Git, GitHub, VS Code, Bash
-
-## 📚 What I'm Learning
-- Software workflow Automation
-- Advanced algorithms and data structures
-- Cloud architecture and services
-- Modern JavaScript frameworks
 
 ## 💼 Professional Experience
 - **Software Developer at Byanat**
@@ -26,11 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   - Collaborated with cross-functional teams to deliver high-quality software
 
 ## 📫 How to Reach Me
-- **Email:** usamadarwashi@example.com
+- **Email:** usamadarwashi@gmail.com
 - **LinkedIn:** [Usama Darwashi](https://www.linkedin.com/in/usama-al-darwashi/)
-
-## ⚡ Fun Facts
-- I love playing chess.
-- I'm a big of reading and history.
-- I love all kinds of sports, especially MMA.
 
