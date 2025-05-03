@@ -2,7 +2,7 @@
 
 # Hi there, I'm Usama Darwashi 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, Automation and continuous learning. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, web and mobile applications and everything new. Here's a bit about me:
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** JavaScript, Java, Python 
